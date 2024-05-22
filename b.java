@@ -6,4 +6,7 @@
  */
 public class b {
     public String b;
+    public String a;
+    public String c;
+    public String e;
 }
