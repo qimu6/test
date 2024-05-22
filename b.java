@@ -11,4 +11,5 @@ public class b {
     public String d;
     public String e;
     public String f;
+    public String d;
 }
