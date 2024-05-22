@@ -5,4 +5,5 @@
  * @Description:
  */
 public class d {
+    public String d;
 }
