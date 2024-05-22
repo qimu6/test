@@ -6,4 +6,5 @@
 */
 public class a {
     public String a;
+    public String b;
 }
